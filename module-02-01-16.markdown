@@ -42,7 +42,7 @@
 * Sekhar Paladugu
 * Shannon Paige
 * Erinna Chen: Fun with Linear Algebra
-* Hedy Woo
+* Hedy Woo: Staying Alive: algorithms in cardiovascular emergencies. 
 * Nicholas Dorans: Alternative Energy Sources
 * July Tran: [Systems Thinking for Fun and for Profit](https://gist.github.com/julyytran/737832cd2e4d611f2cfe)
 
